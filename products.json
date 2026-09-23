@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "FIFA Gold Classic Band (แหวนทองคำแท้ทรงเรียบ)",
+    "name": "FIFAMIEE Gold Classic Band (แหวนทองคำแท้ทรงเรียบ)",
     "mood": "gold",
     "type": "ring",
     "size": "ปรับขนาดได้ 6-10",
@@ -11,7 +11,7 @@
   },
   {
     "id": 2,
-    "name": "FIFA Gold Twist Ring (แหวนทองลายบิด)",
+    "name": "FIFAMIEE Gold Twist Ring (แหวนทองลายบิด)",
     "mood": "gold",
     "type": "ring",
     "size": "ปรับขนาดได้ 6-10",
@@ -21,7 +21,7 @@
   },
   {
     "id": 3,
-    "name": "FIFA Silver Minimal Band (แหวนเงินแท้ทรงมินิมอล)",
+    "name": "FIFAMIEE Silver Minimal Band (แหวนเงินแท้ทรงมินิมอล)",
     "mood": "silver",
     "type": "ring",
     "size": "ปรับขนาดได้ 5-11",
@@ -31,7 +31,7 @@
   },
   {
     "id": 4,
-    "name": "FIFA Silver Signature Ring (แหวนเงินซิกเนเจอร์)",
+    "name": "FIFAMIEE Silver Signature Ring (แหวนเงินซิกเนเจอร์)",
     "mood": "silver",
     "type": "ring",
     "size": "ปรับขนาดได้ 5-11",
@@ -41,7 +41,7 @@
   },
   {
     "id": 5,
-    "name": "FIFA Diamond Solitaire Ring (แหวนเพชรเดี่ยว)",
+    "name": "FIFAMIEE Diamond Solitaire Ring (แหวนเพชรเดี่ยว)",
     "mood": "diamond",
     "type": "ring",
     "size": "ปรับขนาดได้ 5-9",
@@ -51,7 +51,7 @@
   },
   {
     "id": 6,
-    "name": "FIFA Diamond Halo Ring (แหวนเพชรฮาโล)",
+    "name": "FIFAMIEE Diamond Halo Ring (แหวนเพชรฮาโล)",
     "mood": "diamond",
     "type": "ring",
     "size": "ปรับขนาดได้ 5-9",
@@ -61,7 +61,7 @@
   },
   {
     "id": 7,
-    "name": "FIFA Couple Promise Rings (แหวนคู่รัก Promise)",
+    "name": "FIFAMIEE Couple Promise Rings (แหวนคู่รัก Promise)",
     "mood": "couple",
     "type": "couple-set",
     "size": "ระบุขนาดชาย/หญิงในหมายเหตุ",
@@ -71,7 +71,7 @@
   },
   {
     "id": 8,
-    "name": "FIFA Couple Engagement Set (เซ็ตแหวนหมั้นคู่รัก)",
+    "name": "FIFAMIEE Couple Engagement Set (เซ็ตแหวนหมั้นคู่รัก)",
     "mood": "couple",
     "type": "couple-set",
     "size": "ระบุขนาดชาย/หญิงในหมายเหตุ",
@@ -81,7 +81,7 @@
   },
   {
     "id": 9,
-    "name": "FIFA Rose Gold Stackable Ring (แหวนโรสโกลด์ซ้อนชั้น)",
+    "name": "FIFAMIEE Rose Gold Stackable Ring (แหวนโรสโกลด์ซ้อนชั้น)",
     "mood": "gold",
     "type": "ring",
     "size": "ปรับขนาดได้ 5-9",
@@ -91,7 +91,7 @@
   },
   {
     "id": 10,
-    "name": "FIFA Signature Wedding Set (เซ็ตแหวนแต่งงาน 2 วง)",
+    "name": "FIFAMIEE Signature Wedding Set (เซ็ตแหวนแต่งงาน 2 วง)",
     "mood": "couple",
     "type": "couple-set",
     "size": "ระบุขนาดชาย/หญิงในหมายเหตุ",
