@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "FIFA Gold Classic Band (แหวนทองคำแท้ทรงเรียบ)",
+    "mood": "gold",
+    "type": "ring",
+    "size": "ปรับขนาดได้ 6-10",
+    "price": 1290,
+    "image": "https://images.unsplash.com/photo-1492714485642-dd6df6baafa2?w=500&auto=format&fit=crop&q=80",
+    "description": "แหวนทองคำแท้ทรงเรียบคลาสสิก ผิวเงางาม สวมใส่ได้ทุกโอกาส ไม่ลอกไม่ดำ"
+  },
+  {
+    "id": 2,
+    "name": "FIFA Gold Twist Ring (แหวนทองลายบิด)",
+    "mood": "gold",
+    "type": "ring",
+    "size": "ปรับขนาดได้ 6-10",
+    "price": 1490,
+    "image": "https://images.unsplash.com/photo-1553915632-175f60dd8e36?w=500&auto=format&fit=crop&q=80",
+    "description": "ดีไซน์ลายบิดหรูหรา ชุบทองคำแท้ 24K สัมผัสเรียบลื่น น้ำหนักเบาสวมสบาย"
+  },
+  {
+    "id": 3,
+    "name": "FIFA Silver Minimal Band (แหวนเงินแท้ทรงมินิมอล)",
+    "mood": "silver",
+    "type": "ring",
+    "size": "ปรับขนาดได้ 5-11",
+    "price": 890,
+    "image": "https://images.unsplash.com/photo-1620968867360-5cda83d2bffd?w=500&auto=format&fit=crop&q=80",
+    "description": "แหวนเงินแท้ 925 ทรงมินิมอล เรียบง่ายแต่ดูดี ใส่ได้ทั้งผู้หญิงและผู้ชาย"
+  },
+  {
+    "id": 4,
+    "name": "FIFA Silver Signature Ring (แหวนเงินซิกเนเจอร์)",
+    "mood": "silver",
+    "type": "ring",
+    "size": "ปรับขนาดได้ 5-11",
+    "price": 990,
+    "image": "https://images.unsplash.com/photo-1578632297758-3a6c6de14be8?w=500&auto=format&fit=crop&q=80",
+    "description": "แหวนเงินแท้ผสมโรเดียมกันดำ เงางามทนทาน ดีไซน์เป็นเอกลักษณ์เฉพาะแบรนด์ FIFA"
+  },
+  {
+    "id": 5,
+    "name": "FIFA Diamond Solitaire Ring (แหวนเพชรเดี่ยว)",
+    "mood": "diamond",
+    "type": "ring",
+    "size": "ปรับขนาดได้ 5-9",
+    "price": 5900,
+    "image": "https://images.unsplash.com/photo-1611955167811-4711904bb9f8?w=500&auto=format&fit=crop&q=80",
+    "description": "แหวนเพชรเม็ดเดี่ยวเจียระไนละเอียด ประกายวิบวับ ฝังบนตัวเรือนทองคำขาว"
+  },
+  {
+    "id": 6,
+    "name": "FIFA Diamond Halo Ring (แหวนเพชรฮาโล)",
+    "mood": "diamond",
+    "type": "ring",
+    "size": "ปรับขนาดได้ 5-9",
+    "price": 7900,
+    "image": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?w=500&auto=format&fit=crop&q=80",
+    "description": "แหวนเพชรทรงฮาโลล้อมเพชรรอบวง โทนโรสโกลด์และไวท์โกลด์ หรูหราสมกับวันพิเศษ"
+  },
+  {
+    "id": 7,
+    "name": "FIFA Couple Promise Rings (แหวนคู่รัก Promise)",
+    "mood": "couple",
+    "type": "couple-set",
+    "size": "ระบุขนาดชาย/หญิงในหมายเหตุ",
+    "price": 1990,
+    "image": "https://images.unsplash.com/photo-1553915632-175f60dd8e36?w=500&auto=format&fit=crop&q=80",
+    "description": "แหวนคู่รัก 2 วง ดีไซน์เข้าชุดกัน สลักข้อความได้ฟรี เหมาะเป็นของขวัญวันครบรอบ"
+  },
+  {
+    "id": 8,
+    "name": "FIFA Couple Engagement Set (เซ็ตแหวนหมั้นคู่รัก)",
+    "mood": "couple",
+    "type": "couple-set",
+    "size": "ระบุขนาดชาย/หญิงในหมายเหตุ",
+    "price": 3590,
+    "image": "https://images.unsplash.com/photo-1714188662137-813203f9d8c5?w=500&auto=format&fit=crop&q=80",
+    "description": "เซ็ตแหวนหมั้นสุดพรีเมียม พร้อมกล่องกำมะหยี่หรูหรา เหมาะสำหรับวันขอแต่งงาน"
+  },
+  {
+    "id": 9,
+    "name": "FIFA Rose Gold Stackable Ring (แหวนโรสโกลด์ซ้อนชั้น)",
+    "mood": "gold",
+    "type": "ring",
+    "size": "ปรับขนาดได้ 5-9",
+    "price": 1690,
+    "image": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?w=500&auto=format&fit=crop&q=80",
+    "description": "แหวนโรสโกลด์บางเบา ใส่ซ้อนชั้นได้หลายวง เพิ่มลุคหวานหรูให้มือคุณ"
+  },
+  {
+    "id": 10,
+    "name": "FIFA Signature Wedding Set (เซ็ตแหวนแต่งงาน 2 วง)",
+    "mood": "couple",
+    "type": "couple-set",
+    "size": "ระบุขนาดชาย/หญิงในหมายเหตุ",
+    "price": 4590,
+    "image": "https://images.unsplash.com/photo-1578632297758-3a6c6de14be8?w=500&auto=format&fit=crop&q=80",
+    "description": "เซ็ตแหวนแต่งงานคู่บ่าวสาว 2 วง งานฝีมือประณีต ประกายเงางามคงทนถาวร"
+  }
+]
